@@ -1,8 +1,17 @@
-.. contents:: **Contents**
-
 ##############################################
 Project Configuration File ``platformion.ini``
 ##############################################
+
+* **Thực hiện:** Thi Minh Nhựt - **Email:** `thiminhnhut\@gmail.com <thiminhnhut@gmail.com>`_
+
+* **Thời gian:** Ngày 22 tháng 10 năm 2017
+
+.. contents:: **Contents**
+
+Nguồn tham khảo
+****************
+
+`Project Configuration File platformio.ini <http://docs.platformio.org/en/latest/projectconf.html>`_
 
 PlatformIO Core settings: section ``[platformio]``
 ***************************************************
